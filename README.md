@@ -1,1 +1,1 @@
-# bsackgroung-generator
+# bsackground-generator
