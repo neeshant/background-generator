@@ -1,1 +1,1 @@
-# bsackground-generator
+# background-generator
